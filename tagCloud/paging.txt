@@ -1,0 +1,6 @@
+In computer operating systems, paging is one of the memory-management schemes by which a computer can store and retrieve data from secondary storage for use in main memory. In the paging memory-management scheme, the operating system retrieves data from secondary storage in same-size blocks called pages. The main advantage of paging is that it allows the physical address space of a process to be noncontiguous. Before paging, systems had to fit whole programs into storage contiguously, which caused various storage and fragmentation problems.
+Paging is an important part of virtual memory implementation in most contemporary general-purpose operating systems, allowing them to use disk storage for data that does not fit into physical Random-access memory (RAM). Paging is usually implemented as architecture-specific code built into the kernel of the operating system.
+
+
+
+
